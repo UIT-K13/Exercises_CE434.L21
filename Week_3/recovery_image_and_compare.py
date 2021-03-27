@@ -48,7 +48,7 @@ for height_index in range(height):
 		sum = sum + abs(a - b)
 
 mae = sum/(height*width)
-print('Mean square error: ', m)
+print('Mean absolute error: ', m)
 
 
 cv2.waitKey(0)
