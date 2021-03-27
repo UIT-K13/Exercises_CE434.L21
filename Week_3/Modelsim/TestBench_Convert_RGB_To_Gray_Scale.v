@@ -9,8 +9,8 @@ module TestBench_Convert_RGB_To_Gray_Scale();
     parameter FIXED_POINT_WIDTH = 32;
     parameter POINT_POSITION = FIXED_POINT_WIDTH / 2;
     parameter ADRR_WIDTH_BRAM = 15;
-    parameter LINK_BRAM_READ = "//home//loser4ever//Chuyen_De_Thiet_Ke_Vi_Mach_1//Exercises//Week_3//original_image.txt";
-    parameter LINK_BRAM_WRITE = "//home//loser4ever//Chuyen_De_Thiet_Ke_Vi_Mach_1//Exercises//Week_3//converted_image.txt";
+    parameter LINK_BRAM_READ = "//home//loser4ever//Chuyen_De_Thiet_Ke_Vi_Mach_1//Exercises//Week_3//data_pre_and_post_convert//original_image.txt";
+    parameter LINK_BRAM_WRITE = "//home//loser4ever//Chuyen_De_Thiet_Ke_Vi_Mach_1//Exercises//Week_3//data_pre_and_post_convert//converted_image.txt";
     parameter t = 20;
     
     reg en, reset_n, clk;
