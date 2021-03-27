@@ -29,7 +29,7 @@ print(restored_img.shape)
 cv2.imshow('restored_image', restored_img)
 cv2.imwrite('../image/restored_image.jpg', restored_img)
 # =============================================================================
-img_origin = cv2.imread('khanh_huyen_resized.jpg')
+img_origin = cv2.imread('../image/khanh_huyen_resized.jpg')
 height, width, deep = img_origin.shape
 
 img_temp = np.zeros((height , width), np.uint8)
