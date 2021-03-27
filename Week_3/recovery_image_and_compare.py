@@ -47,8 +47,8 @@ for height_index in range(height):
 		b = int(restored_img[height_index, width_index]);
 		sum = sum + abs(a - b)
 
-mse = sum/(height*width)
-print('Mean square error: ', mse)
+mae = sum/(height*width)
+print('Mean square error: ', m)
 
 
 cv2.waitKey(0)
