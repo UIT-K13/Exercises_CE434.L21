@@ -2,9 +2,9 @@ import cv2
 import numpy as np
 import os
 
-bram = open("original_image.txt", mode = 'w')
+bram = open("../data_pre_and_post_convert/original_image.txt", mode = 'w')
 """
-img_temp = cv2.imread('khanh_huyen.jpg')
+img_temp = cv2.imread('../image/khanh_huyen.jpg')
 print('shape:', img_temp.shape)
 cv2.imshow('img_temp', img_temp)
 
@@ -13,9 +13,9 @@ print('shape:', img.shape)
 cv2.imshow('img', img)
 height, width, deep = img.shape
 
-cv2.imwrite('khanh_huyen_resized.jpg', img)
+cv2.imwrite('../image/khanh_huyen_resized.jpg', img)
 """
-img = cv2.imread('khanh_huyen_resized.jpg')
+img = cv2.imread('../image/khanh_huyen_resized.jpg')
 print('shape:', img.shape)
 cv2.imshow('img', img)
 
