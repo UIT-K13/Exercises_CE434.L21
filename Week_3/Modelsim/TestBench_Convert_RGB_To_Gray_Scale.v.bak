@@ -33,7 +33,7 @@ module TestBench_Convert_RGB_To_Gray_Scale();
             scale_red = 16384; //  = 0.25
             scale_green = 16384; // = 0.25
             scale_blue = 16384; // = 0.25
-        #(1250000000);
+        #(t/2);
         #(t*70);
             $stop;
     end

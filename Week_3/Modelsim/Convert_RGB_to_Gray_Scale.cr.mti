@@ -1,0 +1,57 @@
+/home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module BRAM
+
+Top level modules:
+	BRAM
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Convert_RGB_To_Gray_Scale
+
+Top level modules:
+	Convert_RGB_To_Gray_Scale
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Data_Path
+
+Top level modules:
+	Data_Path
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module BRAM_Store_Data
+
+Top level modules:
+	BRAM_Store_Data
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module TestBench_Calculate_Result
+
+Top level modules:
+	TestBench_Calculate_Result
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Calculate_Result
+
+Top level modules:
+	Calculate_Result
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v {1 {vlog -work work -stats=none /home/loser4ever/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module TestBench_Convert_RGB_To_Gray_Scale
+
+Top level modules:
+	TestBench_Convert_RGB_To_Gray_Scale
+
+} {} {}}
