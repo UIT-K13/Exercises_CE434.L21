@@ -4,7 +4,7 @@ import os
 
 path = os.getcwd() + "converted_image.txt"
 
-file = open("converted_image.txt")
+file = open("../data_pre_and_post_convert/converted_image.txt")
 data = file.readlines()
 file.close()
 
@@ -27,7 +27,7 @@ for height_index in range(height):
 
 print(restored_img.shape)
 cv2.imshow('restored_image', restored_img)
-cv2.imwrite('restored_image.jpg', restored_img)
+cv2.imwrite('../image/restored_image.jpg', restored_img)
 # =============================================================================
 img_origin = cv2.imread('khanh_huyen_resized.jpg')
 height, width, deep = img_origin.shape
