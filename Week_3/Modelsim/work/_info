@@ -1,0 +1,185 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vBRAM
+Z1 !s100 VeHX=<]VFh^`W0D1UKzaY3
+Z2 I4omVA3[OYOMGKzNk8T`_V1
+Z3 V]NZC>QPb6bNZQElfl`F192
+Z4 dF:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_3\Modelsim
+Z5 w1616917043
+Z6 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v
+Z7 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v|
+Z10 o-work work -O0
+Z11 n@b@r@a@m
+Z12 !s108 1616921133.621000
+Z13 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBRAM_Store_Data
+Z14 IfnbIZ]TeaBMR913JATXnP2
+Z15 Vg87ADO_O5ID;7Q<52j;S93
+R4
+Z16 w1616917953
+Z17 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v
+Z18 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v|
+R10
+Z20 n@b@r@a@m_@store_@data
+Z21 !s100 bJXa>C;gW;J8O1KNVJo=F0
+Z22 !s108 1616921133.847000
+Z23 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/BRAM_Store_Data.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCalculate_Result
+Z24 !s100 ZTP@F01>]6PPFdRJJLbTN2
+Z25 IHA64jA>5?o:aAaY7elb9c1
+Z26 Vm?F>=Zf>fC6m?JdlUjcZB1
+R4
+Z27 w1616916101
+Z28 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v
+Z29 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v
+L0 3
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v|
+R10
+Z31 n@calculate_@result
+Z32 !s108 1616921134.007000
+Z33 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Calculate_Result.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z34 IoQ;`V371[mIcRTEiWX9on3
+Z35 VZ66T@C>6?7[6K>XIKK0DJ3
+R4
+Z36 w1616918348
+Z37 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v
+Z38 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v
+L0 3
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v|
+R10
+Z40 n@controller
+Z41 !s100 6M1FKSVQd_[T3<XUQW[;a1
+Z42 !s108 1616921134.263000
+Z43 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vConvert_RGB_To_Gray_Scale
+Z44 IjOmWn>^Tejg9Mj:3^5AZc3
+Z45 V[Y:F3`ZO7XX7LV[`1JlMc0
+R4
+Z46 w1616918434
+Z47 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v
+Z48 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v
+L0 3
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v|
+R10
+Z50 n@convert_@r@g@b_@to_@gray_@scale
+Z51 !s100 TcdBIhfY3Ma9JT6F`Fk2S3
+Z52 !s108 1616921134.420000
+Z53 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Convert_RGB_To_Gray_Scale.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Path
+Z54 Iz7HMkDN9X_1H:o@YogI=62
+Z55 V?LjQD?^Y82IYFM=b<EN5>3
+R4
+Z56 w1616918039
+Z57 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v
+Z58 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v
+L0 3
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v|
+R10
+Z60 n@data_@path
+Z61 !s100 8bU^hBVhoPzDb[E0UzYUA1
+Z62 !s108 1616921134.558000
+Z63 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/Data_Path.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench_Calculate_Result
+Z64 Ia<ZXf8b<=8momaCbj9kKJ2
+Z65 VBP7Pa2jk76YD8FV3[JklJ3
+R4
+Z66 w1616165096
+Z67 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v
+Z68 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v
+L0 3
+R8
+r1
+31
+R10
+Z69 n@test@bench_@calculate_@result
+Z70 !s100 ?c=JKP^2Y>geU9e;g9d5I2
+Z71 !s108 1616921134.698000
+Z72 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v|
+Z73 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Calculate_Result.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench_Controller
+Z74 IN=KgEzXlSWj7FzA1DSETA3
+Z75 VhPIHnR3zTWUGAMD41d@SQ2
+R4
+Z76 w1616916499
+Z77 8F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Controller.v
+Z78 FF:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Controller.v
+L0 3
+R8
+r1
+31
+R10
+Z79 n@test@bench_@controller
+!i10b 1
+Z80 !s100 BPSaH]7dHj;Koz3kN65n;3
+!s85 0
+Z81 !s108 1616922127.588000
+Z82 !s107 F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Controller.v|
+Z83 !s90 -reportprogress|300|-work|work|F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_3/Modelsim/TestBench_Controller.v|
+!s101 -O0
+vTestBench_Convert_RGB_To_Gray_Scale
+!i10b 1
+!s100 <LU_PZVCK0hnbb4DA^Y0=3
+IG>;<@?G=`dKHhT]SgP9MH1
+VdV3dhgf`P9^Qbg3__i2P^1
+R4
+w1616923947
+8F:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_3\Modelsim\TestBench_Convert_RGB_To_Gray_Scale.v
+FF:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_3\Modelsim\TestBench_Convert_RGB_To_Gray_Scale.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1616923951.659000
+!s107 F:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_3\Modelsim\TestBench_Convert_RGB_To_Gray_Scale.v|
+!s90 -reportprogress|300|-work|work|F:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_3\Modelsim\TestBench_Convert_RGB_To_Gray_Scale.v|
+!s101 -O0
+R10
+Z84 n@test@bench_@convert_@r@g@b_@to_@gray_@scale
