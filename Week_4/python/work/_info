@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_4\python
+vBRAM
+!i10b 1
+Z1 !s100 4]FhYRH@le2fb?[>LX@L31
+Z2 IWD9HF<3Xo6HG<XmiD@ZZD0
+Z3 V_gDiN8UmYO5HYDkDHf;NQ1
+Z4 dF:\Hoc_Tap\Nam_3_Ki_2\Chuyen_De_Thiet_Ke_Vi_Mach_1\Exercises\Week_4\python
+Z5 w1616985254
+Z6 8../Modelsim/BRAM.v
+Z7 F../Modelsim/BRAM.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1617024093.046000
+Z10 !s107 ../Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v|../Modelsim/Convert_RGB_To_Gray_Scale.v|../Modelsim/Controller.v|../Modelsim/Data_Path.v|../Modelsim/Calculate_Result.v|../Modelsim/BRAM_Store_Data.v|../Modelsim/BRAM.v|
+Z11 !s90 ../Modelsim/BRAM.v|../Modelsim/BRAM_Store_Data.v|../Modelsim/Calculate_Result.v|../Modelsim/Data_Path.v|../Modelsim/Controller.v|../Modelsim/Convert_RGB_To_Gray_Scale.v|../Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v|
+!s101 -O0
+o-O0
+Z12 n@b@r@a@m
+vBRAM_Store_Data
+!i10b 1
+!s100 aDC5VbY95M8Cl9aQOPO`N1
+I6G@US21SIkF44=N1^fKNR3
+Z13 VAfDn8QnJCghYga11Ezfj70
+R4
+w1617023820
+Z14 8../Modelsim/BRAM_Store_Data.v
+Z15 F../Modelsim/BRAM_Store_Data.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z16 n@b@r@a@m_@store_@data
+vCalculate_Result
+!i10b 1
+Z17 !s100 Fo[Kf7F[a@<=Cz0E85>8L1
+Z18 InUn@]Wjl[8;7<^YTf5M9Z2
+Z19 VP80WM>X2PYbJYPeoY@kEm0
+R4
+Z20 w1616995356
+Z21 8../Modelsim/Calculate_Result.v
+Z22 F../Modelsim/Calculate_Result.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z23 n@calculate_@result
+vController
+!i10b 1
+Z24 !s100 :`CkSAVMcVEeV`c@h[RfH2
+Z25 Ii@F8<>[@I]:OPR6SQleUz0
+Z26 V6Kl18afL0@91m=7[D>zKW1
+R4
+Z27 w1616988729
+Z28 8../Modelsim/Controller.v
+Z29 F../Modelsim/Controller.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z30 n@controller
+vConvert_RGB_To_Gray_Scale
+!i10b 1
+Z31 !s100 KKhLd;NRdB>JbREZEeWiO1
+Z32 II;5Si7zEKUWjzNn?XB:5k0
+Z33 V[oNJh`U64^Xh06kiW]=WR2
+R4
+Z34 w1616989727
+Z35 8../Modelsim/Convert_RGB_To_Gray_Scale.v
+Z36 F../Modelsim/Convert_RGB_To_Gray_Scale.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z37 n@convert_@r@g@b_@to_@gray_@scale
+vData_Path
+!i10b 1
+Z38 !s100 GBZV>?]`?>T2`7507CeO81
+Z39 IORTn8T?4G>h;noh_<g8Y:3
+Z40 V2?HL71YzefMfkmzBN?39@2
+R4
+Z41 w1616989220
+Z42 8../Modelsim/Data_Path.v
+Z43 F../Modelsim/Data_Path.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z44 n@data_@path
+vTestBench_Convert_RGB_To_Gray_Scale
+!i10b 1
+!s100 H5hPjgZJeA<ZDWn[iKKa63
+I`7cBhlY5]RFo3K2R5o?BH0
+Z45 Va=A]9U37W1f1Vbk1Sk[;H2
+R4
+w1617012790
+Z46 8../Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v
+Z47 F../Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z48 n@test@bench_@convert_@r@g@b_@to_@gray_@scale

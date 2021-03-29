@@ -1,0 +1,13 @@
+# vsim -do {run -all} -c TestBench_Convert_RGB_To_Gray_Scale 
+# Loading work.TestBench_Convert_RGB_To_Gray_Scale
+# Loading work.Convert_RGB_To_Gray_Scale
+# Loading work.Controller
+# Loading work.Data_Path
+# Loading work.BRAM
+# Loading work.Calculate_Result
+# Loading work.BRAM_Store_Data
+# run -all 
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 129601 of file "..\bram_pre_and_post_convert\original_image.txt". Expected 524288, found 129600.    : ../Modelsim/BRAM.v(21)
+#    Time: 0 ps  Iteration: 0  Instance: /TestBench_Convert_RGB_To_Gray_Scale/ins0/ins1/ins0
+# ** Note: $finish    : ../Modelsim/TestBench_Convert_RGB_To_Gray_Scale.v(39)
+#    Time: 2600110 ns  Iteration: 0  Instance: /TestBench_Convert_RGB_To_Gray_Scale

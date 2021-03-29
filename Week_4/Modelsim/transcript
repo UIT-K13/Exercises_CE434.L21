@@ -1,0 +1,40 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_4/Modelsim/Convert_RGB_to_Gray.mpf 
+# Loading project Convert_RGB_to_Gray
+# Compile of TestBench_Convert_RGB_To_Gray_Scale.v was successful.
+vsim -gui work.TestBench_Convert_RGB_To_Gray_Scale
+# vsim -gui work.TestBench_Convert_RGB_To_Gray_Scale 
+# Loading work.TestBench_Convert_RGB_To_Gray_Scale
+# Loading work.Convert_RGB_To_Gray_Scale
+# Loading work.Controller
+# Loading work.Data_Path
+# Loading work.BRAM
+# Loading work.Calculate_Result
+# Loading work.BRAM_Store_Data
+vsim -gui work.TestBench_Convert_RGB_To_Gray_Scale
+# vsim -gui work.TestBench_Convert_RGB_To_Gray_Scale 
+# Loading work.TestBench_Convert_RGB_To_Gray_Scale
+# Loading work.Convert_RGB_To_Gray_Scale
+# Loading work.Controller
+# Loading work.Data_Path
+# Loading work.BRAM
+# Loading work.Calculate_Result
+# Loading work.BRAM_Store_Data
+add wave -position insertpoint sim:/TestBench_Convert_RGB_To_Gray_Scale/*
+run
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 129601 of file "..\bram_pre_and_post_convert\original_image.txt". Expected 524288, found 129600.    : F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_4/Modelsim/BRAM.v(21)
+#    Time: 0 ps  Iteration: 0  Instance: /TestBench_Convert_RGB_To_Gray_Scale/ins0/ins1/ins0
+add wave -position insertpoint sim:/TestBench_Convert_RGB_To_Gray_Scale/ins0/ins1/ins2/*
+run
+restart
+run
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 129601 of file "..\bram_pre_and_post_convert\original_image.txt". Expected 524288, found 129600.    : F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_4/Modelsim/BRAM.v(21)
+#    Time: 0 ps  Iteration: 0  Instance: /TestBench_Convert_RGB_To_Gray_Scale/ins0/ins1/ins0
+# Compile of TestBench_Convert_RGB_To_Gray_Scale.v was successful.
+restart
+# Loading work.TestBench_Convert_RGB_To_Gray_Scale
+run
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 129601 of file "..\bram_pre_and_post_convert\original_image.txt". Expected 524288, found 129600.    : F:/Hoc_Tap/Nam_3_Ki_2/Chuyen_De_Thiet_Ke_Vi_Mach_1/Exercises/Week_4/Modelsim/BRAM.v(21)
+#    Time: 0 ps  Iteration: 0  Instance: /TestBench_Convert_RGB_To_Gray_Scale/ins0/ins1/ins0
+# Break key hit 
+# Simulation stop requested.
