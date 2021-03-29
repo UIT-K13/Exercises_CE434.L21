@@ -1,1 +1,1 @@
-- Run main.py in /python/main.py to run program
+- Run main.py in /python/main.py to run program convert RGB image to Gray image
